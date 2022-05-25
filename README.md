@@ -6,9 +6,9 @@
   <a href=https://fabioorigoni.ch/">
     <img src="images/logo.webp" alt="Logo" width="80" height="80">
   </a>
-
   <h3 align="center">Fabio Origoni</h3>
-  </div>
+</div>              
+                    
 # Video Games DB JTable
 A simple project based on a Video games DB in SQL lite that allows you to make CRUD operations.
 
