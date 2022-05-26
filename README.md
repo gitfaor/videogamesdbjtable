@@ -16,11 +16,6 @@ A simple project based on a Video games DB in SQL lite that allows you to make C
 ## About the project
 ![Main](./images/main.webp)
 
-<div align="right">
- <a href="#top"><img src="./images/backtotop.webp" 
- alt="Back-to-top" width="40" height="40"> </a>
-</div>
-
 ## License & Copyright
 
 <div align="center">
@@ -31,6 +26,7 @@ A simple project based on a Video games DB in SQL lite that allows you to make C
 </div> 
 
 Licensed under [GNU GPL v3](LICENSE)
+
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/fabio-origoni/
