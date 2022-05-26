@@ -1,13 +1,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<div id="top"></div>
-
-<div align="center">
-  <a href=https://fabioorigoni.ch/">
-    <img src="images/logo.webp" alt="Logo" width="80" height="80">
-  </a>
-  <h3 align="center">Fabio Origoni</h3>
-</div>              
+<div id="top"></div>             
                     
 # Video Games DB JTable
 A simple project based on a Video games DB in SQL lite that allows you to make CRUD operations.
@@ -28,6 +21,16 @@ A simple project based on a Video games DB in SQL lite that allows you to make C
  alt="Back-to-top" width="40" height="40"> </a>
 </div>
 
+## License & Copyright
+
+<div align="center">
+  <a href=https://fabioorigoni.ch/">
+    <img src="images/logo.webp" alt="Logo" width="80" height="80">
+  </a>
+  <h3 align="center">&copy; Fabio Origoni</h3>
+</div> 
+
+Licensed under [GNU GPL v3](LICENSE)
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/fabio-origoni/
